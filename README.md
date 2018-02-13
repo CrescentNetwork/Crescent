@@ -10,7 +10,7 @@ The Crescent Token being an Ethereum token first implements the Proof-of-Stake m
 The Crescent Token is a multi-use Proof-of-Stake token developed on the Ethereum platform. CSN Token having Proof-of-Stake mechanism but also aims to provide its users with a cryptocurrency token that will incorporate multiple uses and have a marketplace for its use as well, which will add to the value and utility of the token.
 
 
- ## Specifications of Crescent Network Token 
+## Specifications of Crescent Network Token 
 * **Name**: Crescent
 * **Symbol**: CSN
 * **Decimals**: 8
